@@ -1,0 +1,8 @@
+__MACOSX
+node_modules
+sync
+sql_edit
+.env
+env.json
+*.sql
+yarn.lock
